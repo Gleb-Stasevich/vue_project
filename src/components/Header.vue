@@ -110,8 +110,6 @@ $dark: #3D3D3D;
     visibility: hidden;
 }
 
-.open {}
-
 @media(max-width: 1100px) {
     .header {
 
